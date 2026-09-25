@@ -3,7 +3,6 @@ body {
 
 p {
     color:rgb(255, 255, 255);
-    background-color: rgb(0, 58, 5);
     padding: 0.6em;
     margin: auto;
         margin-bottom: 2em;
@@ -17,6 +16,13 @@ p {
 .kiri {text-align: left;}
 .bgbiru{ background-color: rgb(0, 0, 63);}
 .bgungu {background-color: rgb(47, 0, 92);}
+.bgijo {background-color: rgb(0, 58, 5);}
+.bgmerah {background-color: rgb(71, 0, 0);}
+.bgkuning {background-color: rgb(96, 107, 0);}
+.bgoren {background-color: rgb(156, 63, 1);}
+.bghitam {background-color: rgb(0, 0, 0);}
+.bgpink {background-color: rgb(92, 0, 51);}
+.bghijauii {background-color: rgb(1, 92, 57);}
 
 h1 {
     color: rgb(25, 92, 4);
